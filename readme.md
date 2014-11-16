@@ -23,7 +23,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="|:text-align:left:|">**Happy**</td>
+<td style="text-align:left">**Happy**</td>
 <td style="text-align:center">*rot-weiss*</td>
 <td style="text-align:right">3</td>
 </tr>
